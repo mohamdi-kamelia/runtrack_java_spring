@@ -1,0 +1,6 @@
+## Comment Spring permet-il l'injection de propriétés depuis des fichiers de configuration ?
+
+Spring permet l’injection de propriétés grâce à l’annotation @Value.
+Cette annotation lit les valeurs définies dans les fichiers de configuration (application.properties ou application.yml) et les injecte automatiquement dans les classes Java.
+La syntaxe ${ma.propriete} permet de faire référence à une clé définie dans le fichier de configuration.
+Cela rend l’application plus flexible, car les paramètres peuvent être modifiés sans changer le code source.
