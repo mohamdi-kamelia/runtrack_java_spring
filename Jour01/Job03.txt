@@ -1,0 +1,6 @@
+## Qu'est-ce qu'un contrôleur dans le contexte de Spring MVC ?
+
+Un contrôleur est une classe Java qui joue le rôle d'intermédiaire entre l'utilisateur et l'application.
+Dans le modèle Spring MVC, il reçoit les requêtes HTTP envoyées par le client (comme un navigateur), les traite, puis renvoie une réponse adaptée.
+Un contrôleur est généralement annoté avec @Controller et utilise des annotations comme @GetMapping ou @PostMapping pour gérer les différentes URL.
+Il permet d’afficher du contenu (texte, JSON ou page HTML) en fonction des besoins de l’application.

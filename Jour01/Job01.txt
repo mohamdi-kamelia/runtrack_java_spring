@@ -1,0 +1,7 @@
+## Qu'est-ce que Spring Initializr :
+Spring Initializr est un générateur en ligne permettant de créer rapidement un projet Spring Boot.
+
+##comment peut-il faciliter la création d'un nouveau projet Spring :
+Il offre la possibilité de sélectionner le système de construction (comme Maven), la version de Spring Boot, et les dépendances nécessaires (par exemple Spring Web, Thymeleaf).
+Une fois les options choisies, il génère un projet prêt à l’emploi, avec une structure complète et les fichiers essentiels déjà configurés.
+Cet outil permet de gagner du temps, d’éviter les erreurs de configuration, et de se concentrer directement sur le développement.

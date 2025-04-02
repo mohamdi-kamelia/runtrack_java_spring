@@ -1,0 +1,3 @@
+spring.application.name=demo
+greeting:
+  message: "Bienvenue sur ma page avec Thymeleaf et Spring Boot"

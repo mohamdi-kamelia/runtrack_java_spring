@@ -1,0 +1,5 @@
+## Pourquoi le fichier pom.xml est-il crucial dans un projet Maven ?
+
+Le fichier pom.xml (Project Object Model) est essentiel dans un projet Maven car il contient toutes les informations nécessaires à la gestion du projet.
+Il permet de définir les dépendances à utiliser (comme Spring Boot..), les versions des bibliothèques, les plugins, et les paramètres de construction du projet.
+Ce fichier assure également le bon déroulement des étapes de compilation, de test et de création du fichier exécutable (JAR ou WAR).
